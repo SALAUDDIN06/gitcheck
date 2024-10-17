@@ -55,7 +55,7 @@ print(coordinate)
 #set in a python which is a collection of unique elements and un oredered "set"
 s = set()
 s.add(1)
-s.add(2)
+s.add(2) 
 s.add(3)
 s.add(4)
 s.remove(2) # here removed the element from the set using the value from the set
