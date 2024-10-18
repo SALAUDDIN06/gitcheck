@@ -1,11 +1,11 @@
 # first part of data science
-The first step: The Business requirement
-The Second step: The Data collection related to the requirement "we collect the data from different Data bases" 
-The third step : Data preparation
-The Fourth step : Data  pre-processing
-The FiFth step : Data description
-The Sixth step : Data Validation
-The Seventh Step: Data Analysis
+The first step: The Business requirement.  "Here we get the bsr document = business requirment document where all the main points are sepcified" 
+The Second step: The Data collection related to the requirement "we collect the data from different Data bases". 
+The third step : Data preparation. "Here we verify all the data and its values"
+The Fourth step : Data  pre-processing. "Here we filter out the missing data and replace the data"
+The FiFth step : Data description.
+The Sixth step : Data Validation.
+The Seventh Step: Data Analysis.
 
 # second part 
 The first step: insights of the data .
