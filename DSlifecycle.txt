@@ -1,0 +1,3 @@
+The first step: The Business requirement
+The Second step: The Data collection related to the requirement
+The third step : 
