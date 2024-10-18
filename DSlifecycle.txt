@@ -1,3 +1,29 @@
+# first part of data science
 The first step: The Business requirement
-The Second step: The Data collection related to the requirement
-The third step : 
+The Second step: The Data collection related to the requirement "we collect the data from different Data bases" 
+The third step : Data preparation
+The Fourth step : Data  pre-processing
+The FiFth step : Data description
+The Sixth step : Data Validation
+The Seventh Step: Data Analysis
+
+# second part 
+The first step: insights of the data .
+The second step : we select the features or variables .
+The third step : model selection and model develpoment
+The Fourth step : model interpretation
+The FiFth step : model evaluation 
+The sixth step : come to the conclusion " The as accuracy"
+
+# Third part given the out comes of the processing
+The first step : creating the visuals 
+The second step : representing the content
+The third step : using the formats like ppts and pdfs
+The Fourth step : decisions of the Business requirement
+The FiFth step : Final conclusion of the Business requirement
+
+
+
+
+
+ 
